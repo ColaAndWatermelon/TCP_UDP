@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Client1.cpp
+e:\code\temporary\client1\client1\client1.cpp(34): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winsock2.h(1830): note: 参见“inet_addr”的声明
+  Client1.vcxproj -> E:\Code\temporary\Client1\Debug\Client1.exe
+  Client1.vcxproj -> E:\Code\temporary\Client1\Debug\Client1.pdb (Partial PDB)
